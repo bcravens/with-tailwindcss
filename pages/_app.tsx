@@ -1,10 +1,12 @@
 import { AppProps } from 'next/app'
+import 'tailwindcss/tailwind.css'
 
 function App({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />
 }
 
 export default App
+
 // import { GetStaticProps, GetStaticPaths, GetServerSideProps } from 'next'
 
 // export const getStaticProps: GetStaticProps = async context => {
