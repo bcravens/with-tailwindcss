@@ -60,7 +60,7 @@ const projects = [
           "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
       },
     ],
-    totalMembers: 12,
+    totalMembers: 13,
     lastUpdated: "March 17, 2020",
     pinned: true,
     bgColorClass: "bg-pink-600",

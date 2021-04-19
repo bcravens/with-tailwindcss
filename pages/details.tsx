@@ -65,14 +65,14 @@ const directory = {
   A: [
     {
       id: 1,
-      name: "Leslie Abbott",
+      name: "Dylan Abbott",
       role: "Co-Founder / CEO",
       imageUrl:
         "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
     },
     {
       id: 2,
-      name: "Hector Adams",
+      name: "Bradley Adams",
       role: "VP, Marketing",
       imageUrl:
         "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80",
